@@ -58,7 +58,7 @@ return array(
 			'database'  => 'test',
 			'username'  => 'root',
 			'password'  => 'atmanatman',
-			'unix_socket'  => '/tmp/mysql.sock',
+			// 'unix_socket'  => '/tmp/mysql.sock',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
